@@ -94,4 +94,4 @@ The dataset is from the [Kaggle House Prices: Advanced Regression Techniques](ht
 
 ## Author
 
-Binware - April 2025
+Bin Ware - April 2025
